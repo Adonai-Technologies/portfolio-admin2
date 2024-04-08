@@ -1,0 +1,10 @@
+{
+    "recommendations": [
+        "aeschli.vscode-css-formatter",
+        "esbenp.prettier-vscode",
+        "chris-noring.node-snippets",
+        "github.copilot",
+        "feiskyer.chatgpt-copilot",
+        "codeium.codeium"
+    ]
+}

@@ -1,0 +1,8 @@
+{
+    "prettier.bracketSameLine": true,
+    "prettier.enableDebugLogs": true,
+    "prettier.jsxSingleQuote": true,
+    "prettier.resolveGlobalModules": true,
+    "prettier.useTabs": true,
+    "prettier.vueIndentScriptAndStyle": true
+}
